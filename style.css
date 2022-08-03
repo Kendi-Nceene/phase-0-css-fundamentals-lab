@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+
+img src {
+  align-items: center;
+  }
+  
+a:link {
+background-color: grey;
+}
+p {
+width: 800px;
+text-align: center;
+float: vertical
+}
+div {
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: red;
+}
